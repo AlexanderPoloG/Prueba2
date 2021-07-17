@@ -1,0 +1,23 @@
+EXTM3U
+
+
+#EXTINF:-1 group-title="NOTICIAS",DW
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_2_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="NOTICIAS",RT
+https://rt-esp.secure.footprint.net:443/1102_800Kb.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO",UNIVISION
+https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/UNIVISION-audio_132128_spa=128000-video=800000.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO",CW
+https://h4.ustvgo.la:443/CW/myStream/chunks.m3u8?nimblesessionid=30134591&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDIxIDI6MDQ6MDEgQU0maGFzaF92YWx1ZT1GMkQ4ejIzWjc4NDlFYzdqS0pINnFRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINF:-1 group-title=”ENTRETENIMIENTO”,TELEFE CANAL CORDOBA
+https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1626485463~exp=1626661863~acl=/i/canal8cordoba_1@685726/*~hmac=56344a3e5929752391b8d2707cd62c2a027fbed153d6d141c60efcb462b81b37
+
+#EXTINF:-1 group-title=”ENTRETENIMIENTO”,TELEFE
+https://evento6hls-lh.akamaihd.net/i/evento6hls_1@48399/master.m3u8?hdnea=st=1626490763~exp=1626667163~acl=/i/evento6hls_1@48399/*~hmac=01430fcf6dbe5dcf5ed3ba6bb0795d9c409856edbb28f948836c68f498a59c52
+
+#EXTINF:-1 group-title=”ENTRETENIMIENTO”,E!
+http://142.44.246.107:25461/live/785009317/785009317/21324.m3u8?token=T0QJVEZaRF4aAFoGAwEHAQ4OAFRWAVUHDAdQUw9SDgENVVVUBgRSVQAaFRMRQEVSV1ppDFZGWwEJVgEBFRFMS1EUPlxREFxGCwwOA1oWGxVCXlsAEF5RHxoVWlEbCRsLBF9WBxceRAFATFxDDFVbaFJSQAxRAUMJVhBfWRURVlZrAgRYVFwCRgIaCRNOFl5ERhUMC0cIDR8aB1pBS1JNXRZcQwQHBlJGFBpaXhdaQ0VPFQxHcStDHxoAS0FcXUpRWwhDDxdfVREAGhUTC0doRVNEQhdXBQxWSkcJFwkRFRpZBxlqVl0ICl1bTVgNWkQVDBUARx5GDFxWDEdaS2xJUVBEWxcHAF5XCxpE
