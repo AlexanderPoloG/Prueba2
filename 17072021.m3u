@@ -1,0 +1,24 @@
+EXTM3U
+
+#EXTINF:-1 group-title="NOTICIAS",DW
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_2_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="NOTICIAS",RT
+https://rt-esp.secure.footprint.net:443/1102_800Kb.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO",UNIVISION
+https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/UNIVISION-audio_132128_spa=128000-video=800000.m3u8
+
+#EXTINF:-1 group-title=”ENTRETENIMIENTO”,E!
+http://142.44.246.107:25461/live/785009317/785009317/21324.m3u8?token=T0QJVEZaRF4aAFoGAwEHAQ4OAFRWAVUHDAdQUw9SDgENVVVUBgRSVQAaFRMRQEVSV1ppDFZGWwEJVgEBFRFMS1EUPlxREFxGCwwOA1oWGxVCXlsAEF5RHxoVWlEbCRsLBF9WBxceRAFATFxDDFVbaFJSQAxRAUMJVhBfWRURVlZrAgRYVFwCRgIaCRNOFl5ERhUMC0cIDR8aB1pBS1JNXRZcQwQHBlJGFBpaXhdaQ0VPFQxHcStDHxoAS0FcXUpRWwhDDxdfVREAGhUTC0doRVNEQhdXBQxWSkcJFwkRFRpZBxlqVl0ICl1bTVgNWkQVDBUARx5GDFxWDEdaS2xJUVBEWxcHAF5XCxpE
+
+#EXTINF:-1 group-title="INFANTILES",DISNEY XD
+https://gyf2kx7w2g.azcdn381.net:8443/hls/uec9eiywkc5ylf.m3u8?s=zmh7hsT9P4qK62m2Is8TOg&e=1626523550
+
+#EXTINF:-1 group-title="INFANTILES",DISNEY CHANNEL 
+https://gyf2kx7w2g.azcdn381.net:8443/hls/8va52.m3u8?s=F6OW4xv--kF1A30A5ZlksA&e=1626523779
+#EXTINF:-1 group-title=”PELÍCULAS”,GOLDEN
+https://gyf2kx7w2g.azcdn381.net:8443/hls/xfi9lblmxn47o.m3u8?s=AKbWRePt_HQSziIuu81R_Q&e=1626523930
+
+#EXTINF:-1 group-title=”PELÍCULAS”,TNT
+https://gyf2kx7w2g.azcdn381.net:8443/hls/lqo9fv.m3u8?s=TKcff28oJvXstUvQhs0TKg&e=1626524451
