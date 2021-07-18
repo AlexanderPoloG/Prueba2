@@ -1,0 +1,31 @@
+EXTM3U
+
+#EXTINF:-1 group-title="NOTICIAS",RT 
+https://rt-esp-gd.secure2.footprint.net:443/1102_1600Kb.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",DW ESPAÑOL 
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",CNN INTERNACIONAL 
+https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_960x540_2000k.m3u8 
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO",UNIVISION
+https://qlobbidev.s.llnwi.net:443/bpk-tv/UNIVISION/hls/UNIVISION-audio_132128_spa=128000-video=1900000.m3u8 
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TURISTIK TV
+https://5fa5de1a545ae.streamlock.net/turistik/turistik/.m3u8 
+
+#EXTINF:-1 group-title="DEPORTES",FOX SPORT
+https://qlobbidev.s.llnwi.net:443/bpk-tv/FOXSPORTS/hls/FOXSPORTS-audio_128064_und=128000-video=800000.m3u8 
+
+#EXTINF:-1 group-title=”NOTICIAS HD”,RT HD
+https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
+
+#EXTINF:-1 group-title=”NOTICIAS HD”, DW Español HD
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8 
+
+#EXTINF:-1 group-title=”NOVELAS HD”,UNIVISION HD
+https://qlobbidev.s.llnwi.net:443/bpk-tv/UNIVISION/hls/UNIVISION-audio_132128_spa=128000-video=2900000.m3u8 
+
+#EXTINF:-1 group-title="DEPORTES HD",FOX SPORT HD
+https://qlobbidev.s.llnwi.net:443/bpk-tv/FOXSPORTS/hls/FOXSPORTS-audio_128064_und=128000-video=1900000.m3u8 
