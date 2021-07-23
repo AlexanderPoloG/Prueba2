@@ -1,0 +1,84 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="NOTICIAS",RT 
+https://rt-esp-gd.secure2.footprint.net:443/1102_1600Kb.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",DW ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8 
+
+#EXTINF:-1 group-title="NOTICIAS",CNN CHILE
+https://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8 
+
+#EXTINF:-1 group-title="NOTICIAS",TELESUR
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8 
+
+#EXTINF:-1 group-title="NOTICIAS",CANAL 26 
+http://200.115.193.177/live/26hd-720/playlist.m3u8 
+
+#EXTINF:-1 group-title="NOTICIAS",24h
+https://rtvelivestreamv3.akamaized.net/24h_main_dvr_360.m3u8 
+
+#EXTINF:-1 group-title="GENERALISTA",UNIVISION
+https://qlobbidev.s.llnwi.net:443/bpk-tv/UNIVISION/hls/UNIVISION-audio_132128_spa=128000-video=1900000.m3u8 
+
+#EXTINF:-1 group-title="GENERALISTA",TELETICA 
+https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5753OTcmC26avUTeL7XeUL0)/dm/3/x29e3wg/d/live-2.m3u8#cell=lnyc 
+
+#EXTINF:-1 group-title="GENERALISTA",TVN
+https://bcovlive-a.akamaihd.net:443/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_2/chunklist_dvr.m3u8 
+
+#EXTINF:-1 group-title="GENERALISTA",CANAL 6
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8 
+
+#EXTINF:-1 group-title="GENERALISTA",ECUADOR TV
+https://qlobbidev.s.llnwi.net:443/bpk-tv/ECUADOR/hls/ECUADOR-audio_132112_und=128000-video=800000.m3u8 
+
+#EXTINF:-1 group-title="GENERALISTA",COSMO VISIÓN
+https://videohls2.cosmovision.tv:443/hls/sd_480p1128kbs/index.m3u8 
+
+#EXTINF:-1 group-title="GENERALISTA",AMERICA HD
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8 
+
+#EXTINF:-1 group-title="GENERALISTA",TELEMAX
+http://live-edge01.telecentro.net.ar:80/live/smil:tlx.smil/chunklist_w1100519586_b1828000_sleng.m3u8 
+
+#EXTINF:-1 group-title="GENERALISTA",AZ MUNDO
+https://qlobbidev.s.llnwi.net:443/bpk-tv/AZMUNDO/hls/AZMUNDO-audio_128051_spa=128000-video=1900000.m3u8 
+
+#EXTINF:-1 group-title="NOVELAS",TLNOVELAS
+https://qlobbidev.s.llnwi.net:443/bpk-tv/MERIDIANO/hls/MERIDIANO-audio_132128_spa=128000-video=2000000.m3u8 
+
+#EXTINF:-1 group-title="NOVELAS",AZ CORAZON
+https://qlobbidev.s.llnwi.net:443/bpk-tv/AZCORAZON/hls/AZCORAZON-audio_128067_spa=128000-video=1900000.m3u8 
+
+#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN
+https://qlobbidev.s.llnwi.net:443/bpk-tv/GOLDEN/hls/GOLDEN-audio_132128_spa=128000-video=800000.m3u8 
+ 
+#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN EDGE
+https://qlobbidev.s.llnwi.net/bpk-tv/GEDGE/hls/GEDGE.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",PARAMOUT
+http://flus1.sanpedrowifi.com/live/paramount.sd.ird/index.m3u8 
+
+#EXTINF:-1 group-title="CINE Y SERIES",AZ CINEMA
+https://qlobbidev.s.llnwi.net:443/bpk-tv/AZCINEMA/hls/AZCINEMA-audio_128099_spa=128000-video=1900000.m3u8 
+
+#EXTINF:-1 group-title="CINE Y SERIES",DE PELICULA 
+https://qlobbidev.s.llnwi.net:443/bpk-tv/DEPELICULA/hls/DEPELICULA-audio_132128_spa=128000-video=1900000.m3u8 
+
+#EXTINF:-1 group-title="CINE Y SERIES",A3CINE
+https://live.atresmediainternacional.com:443/ATRESMEDIA/a3cine-480.m3u8 
+
+#EXTINF:-1 group-title="DEPORTES",FOX SPORT
+https://qlobbidev.s.llnwi.net:443/bpk-tv/FOXSPORTS/hls/FOXSPORTS-audio_128064_und=128000-video=800000.m3u8 
+#EXTINF:-1 F:-1 group-title=”NOTICIAS”,RT HD
+https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
+
+#EXTINF:-1 group-title=”NOTICIAS”, DW Español HD
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8 
+
+#EXTINF:-1 group-title="GENERALISTA",UNIVISION HD
+https://qlobbidev.s.llnwi.net:443/bpk-tv/UNIVISION/hls/UNIVISION-audio_132128_spa=128000-video=2900000.m3u8 
+
+#EXTINF:-1 group-title="DEPORTES",FOX SPORT HD
+https://qlobbidev.s.llnwi.net:443/bpk-tv/FOXSPORTS/hls/FOXSPORTS-audio_128064_und=128000-video=1900000.m3u8 
