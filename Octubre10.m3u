@@ -1,0 +1,97 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="NOTICIAS",RT TV
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+#EXTINF:-1 group-title="NOTICIAS",DW ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS",TELESUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8 
+#EXTINF:-1 group-title="NOTICIAS",CANAL 26
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8  
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="NOTICIAS", FRANCE 24 ESPAÑOL
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8 
+
+
+#EXTINF:-1 group-title="GENERALISTA",TVN
+https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/playlist_dvr.m3u8 
+#EXTINF:-1 group-title="GENERALISTA",TVMAX
+https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8  
+#EXTINF:-1 group-title="GENERALISTA",AZ MUNDO
+https://qlobbidev.s.llnwi.net/bpk-tv/AZMUNDO/hls/AZMUNDO.m3u8  
+#EXTINF:-1 group-title="GENERALISTA",TELEFE
+https://edge1.stg.cvattv.com.ar/live/live2/TelefeHD/SA_Live_fta/index.m3u8 
+#EXTINF:-1 group-title="GENERALISTA",CARACOL TV 
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8 
+#EXTINF:-1 group-title="GENERALISTA",RCN INTERNACIONAL
+https://qlobbidev.s.llnwi.net/bpk-tv/RCN/hls/index.m3u8 
+#EXTINF:-1 group-title="GENERALISTA",CANAL 1
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8 
+#EXTINF:-1 group-title="GENERALISTA",CANAL 13
+https://edge1.stg.cvattv.com.ar/live/live2/ArtearHD/SA_Live_fta/index.m3u8 
+#EXTINF:-1 group-title="GENERALISTA",MULTIMEDIOS
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8 
+#EXTINF:-1 group-title="GENERALISTA",ESTRELLA TV
+https://estrellatv-roku.amagi.tv:443/playlistR432p.m3u8
+#EXTINF:-1 group-title="GENERALISTA",TELE AMAZONAS
+https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8 
+
+
+
+#EXTINF:-1 group-title="INFANTILES",DISNEY CHANNEL
+https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYCHANNEL/hls/index.m3u8 
+#EXTINF:-1 group-title="INFANTILES",DISNEY XD
+https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYXD/hls/index.m3u8
+#EXTINF:-1 group-title="INFANTILES",DISNEY JR
+https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYJUNIOR/hls/index.m3u8 
+#EXTINF:-1 group-title="INFANTILES",NAT GEO KIDS
+https://qlobbidev.s.llnwi.net/bpk-tv/NATGEOKIDS/hls/index.m3u8 
+
+#EXTINF:-1 group-title="CULTURALES",HISTORY CHANNEL
+https://cdn.stg.cvattv.com.ar/live/live2/HistoryHD/SA_Live_fta/index.m3u8 
+#EXTINF:-1 group-title="CULTURALES",NAT GEO
+https://qlobbidev.s.llnwi.net/bpk-tv/NATGEO/hls/index.m3u8
+#EXTINF:-1 group-title="CULTURALES",DISCOVERY H&H
+https://cdn.stg.cvattv.com.ar/live/live2/DiscoveryHomeHealthHD/SA_Live_fta/index.m3u8 
+#EXTINF:-1 group-title="CULTURALES",DISCOVERY
+http://edge1.stg.cvattv.com.ar/live/live2/DiscoveryHD/SA_Live_fta/index.m3u8 
+#EXTINF:-1 group-title="CULTURALES",NAT GEO WILD
+https://qlobbidev.s.llnwi.net/bpk-tv/NATGEOWILD/hls/index.m3u8 
+
+#EXTINF:-1 group-title="NOVELAS",AZ CORAZON
+https://qlobbidev.s.llnwi.net/bpk-tv/AZCORAZON/hls/AZCORAZON.m3u8 
+#EXTINF:-1 group-title="NOVELAS",LAS ESTRELLAS
+https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN
+https://qlobbidev.s.llnwi.net/bpk-tv/GOLDEN/hls/GOLDEN.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN EDGE
+https://qlobbidev.s.llnwi.net/bpk-tv/GEDGE/hls/GEDGE.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",TNT
+http://edge1.stg.cvattv.com.ar/live/live2/TNT/SA_Live_fta/TNT.m3u8 
+#EXTINF:-1 group-title="CINE Y SERIES",AZ CINEMA
+https://qlobbidev.s.llnwi.net/bpk-tv/AZCINEMA/hls/AZCINEMA.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",DE PELICULA 
+https://qlobbidev.s.llnwi.net/bpk-tv/DEPELICULA/hls/DEPELICULA.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",STAR CHANNEL
+https://cdn.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/index.m3u8 
+#EXTINF:-1 group-title="CINE Y SERIES",STAR ACTION
+https://cdn.stg.cvattv.com.ar/live/live2/FoxActionHD/SA_Live_fta/index.m3u8 
+#EXTINF:-1 group-title="CINE Y SERIES",SPACE
+https://cdn.stg.cvattv.com.ar/live/live2/Space/SA_Live_fta/index.m3u8 
+#EXTINF:-1 group-title="CINE Y SERIES",FX
+https://qlobbidev.s.llnwi.net/bpk-tv/FX/hls/index.m3u8 
+#EXTINF:-1 group-title="CINE Y SERIES",FXM
+https://qlobbidev.s.llnwi.net/bpk-tv/FXM/hls/index.m3u8 
+#EXTINF:-1 group-title="CINE Y SERIES",AMC
+https://qlobbidev.s.llnwi.net/bpk-tv/AMC/hls/index.m3u8 
+#EXTINF:-1 group-title="CINE Y SERIES",DHE
+https://qlobbidev.s.llnwi.net/bpk-tv/DHE/hls/index.m3u8 
+
+#EXTINF:-1 group-title="DEPORTES",ESPN http://190.210.221.119/Processor3_1_chunklist_b1300000.m3u8 
+#EXTINF:-1 group-title="DEPORTES",DIRECTV SPORT http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8 
+#EXTINF:-1 group-title="DEPORTES",TYC 2
+http://edge10-hr.cvattv.com.ar/live/c2live/Eventos_2_HD/verimatrix_rotating_FTA/Eventos_2_HD.m3u8 
+
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO",E!
+http://190.210.221.119/Processor3_1_chunklist_b1300000.m3u8
