@@ -1,0 +1,57 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="NOTICIAS",RT TV
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+#EXTINF:-1 group-title="NOTICIAS",DW ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS",TELESUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8 
+#EXTINF:-1 group-title="NOTICIAS",CANAL 26
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8  
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="NOTICIAS", FRANCE 24 ESPAÑOL
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8 
+
+
+#EXTINF:-1 group-title="GENERALISTA",TVN
+https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/playlist_dvr.m3u8 
+#EXTINF:-1 group-title="GENERALISTA",TVMAX
+https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8  
+#EXTINF:-1 group-title="GENERALISTA",TELEFE ROSARIO
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL 
+
+#EXTINF:-1 group-title="GENERALISTA",CARACOL TELEVISIÓN
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8 
+#EXTINF:-1 group-title="GENERALISTA",RCN MÁS
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8 
+#EXTINF:-1 group-title="GENERALISTA",CANAL 1
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8  
+#EXTINF:-1 group-title="GENERALISTA",MULTIMEDIOS
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8 
+#EXTINF:-1 group-title="GENERALISTA",ESTRELLA TV
+https://estrellatv-roku.amagi.tv:443/playlistR432p.m3u8
+#EXTINF:-1 group-title="GENERALISTA",TEN HD
+https://604bda2ac71ad.streamlock.net:443/TENHD/TENLive.smil/.m3u8 
+#EXTINF:-1 group-title="GENERALISTA",TELE AMAZONAS
+https://vps-c97214f4.vps.ovh.net/hls/ecutv1.m3u8 
+#EXTINF:-1 group-title="GENERALISTA",ECUAVISA
+https://vps-c97214f4.vps.ovh.net/hls/ecutv2.m3u8 
+#EXTINF:-1 group-title="GENERALISTA",EL TRECE TV
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8 
+#EXTINF:-1 group-title="GENERALISTA", CANAL CAPITAL
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8 
+#EXTINF:-1 group-title="GENERALISTA",TELE PACÍFICO
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8 
+#EXTINF:-1 group-title="GENERALISTA",TELE CARIBE PLUS
+http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8 
+
+#EXTINF:-1 group-title="DEPORTES",ESPN
+http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8 
+#EXTINF:-1 group-title="DEPORTES",DIRECTV SPORT http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8 
+#EXTINF:-1 group-title="DEPORTES",TYC SPORTS 2
+http://edge10-hr.cvattv.com.ar/live/c2live/Eventos_2_HD/verimatrix_rotating_FTA/Eventos_2_HD.m3u8 
+#EXTINF:-1 group-title="DEPORTES",CLARO SPORTS
+https://dai.google.com/linear/hls/event/MErimHzcQJyFY4sABtO2Lg/master.m3u8 
+
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO",E!
+http://190.210.221.119/Processor3_1_chunklist_b1300000.m3u8 
